@@ -1,31 +1,31 @@
-# 🤖 RAMsey
+# RAMsey
 
 > **An interactive desktop robot that lives on your screen, reacts to you, and shows stats — built with Python & PyQt!**
 
 ---
 
-## 🚀 Challenge Your Debugging Skills  
+## Challenge Your Debugging Skills  
 If you can **find a bug or open a useful issue**, I’ll feature you in the README as a **contributor** — and maybe even contact you for future collabs.  
-⭐ **Star this repo** if you like the project — it helps a ton!
+**Star this repo** if you like the project — it helps a ton!
 
 # Contributers -
 - https://github.com/caveat-dev
 Caveat Dev fixed the readme and moved the requirements.txt outside of the code folder because I somehow forgot!
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 | Info             | Details                                              |
 |------------------|------------------------------------------------------|
-| 👤 Creator        | [@samhith-pola](https://github.com/Githubuser1122bruh) |
-| 🧠 Purpose        | Desktop companion bot with live stats & animation   |
-| 🛠️ Built With     | Python, PyQt6                                        |
-| 📦 Repo Size      | ![Repo Size](https://img.shields.io/github/repo-size/Githubuser1122bruh/RAMsey) |
-| 📅 Last Commit    | ![Last Commit](https://img.shields.io/github/last-commit/Githubuser1122bruh/RAMsey) |
+| Creator        | [@samhith-pola](https://github.com/Githubuser1122bruh) |
+| Purpose        | Desktop companion bot with live stats & animation   |
+| Built With     | Python, PyQt6                                        |
+| Repo Size      | ![Repo Size](https://img.shields.io/github/repo-size/Githubuser1122bruh/RAMsey) |
+| Last Commit    | ![Last Commit](https://img.shields.io/github/last-commit/Githubuser1122bruh/RAMsey) |
 
 ---
 
-## ✨ Features
+## Features
 
  **Live Stats Panel**  
 RAMsey tracks your activity and displays system stats in real time.
@@ -41,7 +41,7 @@ It feels like having a virtual assistant or Tamagotchi on your screen.
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repo
